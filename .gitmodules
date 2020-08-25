@@ -1,0 +1,3 @@
+[submodule "yip_validator"]
+	path = yip_validator
+	url = https://github.com/sambacha/yip_validator
