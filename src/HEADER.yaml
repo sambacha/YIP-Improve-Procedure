@@ -1,0 +1,18 @@
+---
+YIP: <YIP number>
+Title: <YIP title>
+Author: < firstName, lastName, @githubUsrName, contact@address.com >
+Type: <Informational | Standards Track>
+Status: <WIP | Proposed | Approved | Deferred | Withdrawn | Rejected |
+           Implemented | Replaced | Moribund>
+    Version: <major>[.<minor>]
+    Created: <date created on, in ISO 8601 (yyyy-mm-dd) format>
+    Requires (*optional): <YIP number(s)>
+    Implementation (*optional): <Added if YIP passes>
+
+Discussions-to: <Create a new thread on https://gov.yearn.finance/ and drop the link here>
+
+* Requires: <YIP numbers>
+* Replaces: <YIP numbers>
+* Replaced-By: <YIP number>
+---
